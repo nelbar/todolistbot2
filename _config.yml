@@ -60,12 +60,12 @@ features                                  :
     description                           : Assign to-dos to a group to see all together, regardless of due date or other attributes.
     fontawesome_icon_name                 : star
 
-  - title                                 : Smart App Banner
-    description                           : Display a smart app banner on iOS devices.
+  - title                                 : Notes
+    description                           : Write any notes you want to attach to a to-do.
     fontawesome_icon_name                 : arrow-alt-circle-down
 
-  - title                                 : Social Links
-    description                           : Easily add social media accounts and contact info in the footer via the _config.yml file. No HTML/CSS needed.
+  - title                                 : Reorder to-dos
+    description                           : Drag items up or down to reorder.
     fontawesome_icon_name                 : link
 
   - title                                 : FontAwesome Support
