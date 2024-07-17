@@ -40,8 +40,8 @@ features                                  :
     description                           : Due date, alarm, recurrence (how often to repeat), etc.
     fontawesome_icon_name                 : magic
     
-  - title                                 : iPhone Device Preview
-    description                           : Preview your app in the context of an iPhone device. Five different device colors included.
+  - title                                 : Recurrence options
+    description                           : daily, weekly, monthly. intervals, e.g. every 2 days, every 3 weeks.  Repeat n times or to an end date.
     fontawesome_icon_name                 : mobile
 
   - title                                 : Video Support
