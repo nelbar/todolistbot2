@@ -52,12 +52,12 @@ features                                  :
     description                           : Tag to-dos for searching.  To-dos may have multiple tags.
     fontawesome_icon_name                 : sync
 
-  - title                                 : Easy to Tweak
-    description                           : Tweak accent color, images, icons and transparency via the _config.yml file. No HTML/CSS needed.
+  - title                                 : Quick access to all your to-dos.
+    description                           : 6 views: Today, Future, Inbox, All, Log, Groups
     fontawesome_icon_name                 : adjust
   
-  - title                                 : Feature List
-    description                           : Add features (like this one) to your site via the _config.yml file. No HTML/CSS needed.
+  - title                                 : Groups
+    description                           : Assign to-dos to a group to see all together, regardless of due date or other attributes.
     fontawesome_icon_name                 : star
 
   - title                                 : Smart App Banner
