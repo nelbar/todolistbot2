@@ -9,9 +9,6 @@ August 30 2024
 
 # Privacy Policy
 
-
-**Please note:** This is purely a dummy Privacy Policy that serves as an example for how you can use this app landing page generator. Please replace the contents with your own privacy policy.
-
 <br>
 
 ## 1.0 Information We Collect
