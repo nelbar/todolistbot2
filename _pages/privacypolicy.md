@@ -3,13 +3,9 @@ layout: page
 title: Privacy Policy
 include_in_header: true
 ---
-
-**Last updated**  
-August 30 2024
-
 # Privacy Policy
 
-<p>Last updated: September 05, 2024</p>
+<p>Last updated: September 01, 2024</p>
 <p>This Privacy Policy describes Our policies and procedures on the collection, use and disclosure of Your information when You use the Service and tells You about Your privacy rights and how the law protects You.</p>
 <p>We use Your Personal data to provide and improve the Service. By using the Service, You agree to the collection and use of information in accordance with this Privacy Policy.</p>
 <h2>Interpretation and Definitions</h2>
